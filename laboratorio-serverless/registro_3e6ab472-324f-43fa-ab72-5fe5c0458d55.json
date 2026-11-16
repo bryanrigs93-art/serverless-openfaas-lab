@@ -1,0 +1,17 @@
+{
+    "nombre": "Bryan",
+    "apellido": "Bodegas",
+    "email": "bryanrigs93@gmail.com",
+    "token": "3e6ab472-324f-43fa-ab72-5fe5c0458d55",
+    "fecha_utc": "2026-11-16T03:01:50.559878+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "6127d73259b8",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "629af2e9e7c52933232a0ac12909790d52b996482430b4823b9e680a75474d04"
+}
